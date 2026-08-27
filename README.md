@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0424-longest-repeating-character-replacement) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0239-sliding-window-maximum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Queue
 |  |
 | ------- |
