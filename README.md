@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0295-find-median-from-data-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -36,4 +37,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0239-sliding-window-maximum) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0295-find-median-from-data-stream) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0295-find-median-from-data-stream) |
+## Sorting
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
