@@ -53,4 +53,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0295-find-median-from-data-stream) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
