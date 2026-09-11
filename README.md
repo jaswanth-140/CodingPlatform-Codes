@@ -101,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
