@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0424-longest-repeating-character-replacement) |
+| [1598-crawler-log-folder](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1598-crawler-log-folder) |
 ## Sliding Window
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1598-crawler-log-folder](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1598-crawler-log-folder) |
 | [1732-find-the-highest-altitude](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1732-find-the-highest-altitude) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0007-reverse-integer) |
+## Stack
+|  |
+| ------- |
+| [1598-crawler-log-folder](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1598-crawler-log-folder) |
 <!---LeetCode Topics End-->
