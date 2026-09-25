@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0424-longest-repeating-character-replacement) |
 | [1207-unique-number-of-occurrences](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0424-longest-repeating-character-replacement) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1598-crawler-log-folder](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1598-crawler-log-folder) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1732-find-the-highest-altitude) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0222-count-complete-tree-nodes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0724-find-pivot-index) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
