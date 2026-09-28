@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0222-count-complete-tree-nodes) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0101-symmetric-tree) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
