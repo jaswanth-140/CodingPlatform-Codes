@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0125-valid-palindrome/) | Easy |
 | [0392-is-subsequence](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0424-longest-repeating-character-replacement) |
 | [1598-crawler-log-folder](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1598-crawler-log-folder) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0125-valid-palindrome](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0392-is-subsequence) |
