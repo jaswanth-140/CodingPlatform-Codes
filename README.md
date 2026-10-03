@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0222-count-complete-tree-nodes) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
@@ -109,12 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0222-count-complete-tree-nodes) |
 | [0938-range-sum-of-bst](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Breadth-First Search
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
