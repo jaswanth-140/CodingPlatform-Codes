@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0136-single-number](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0169-majority-element/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0283-move-zeroes) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0136-single-number/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 | Problem Name | Difficulty |
