@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0125-valid-palindrome/) | Easy |
 | [0392-is-subsequence](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0424-longest-repeating-character-replacement) |
+| [1021-remove-outermost-parentheses](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1598-crawler-log-folder](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1598-crawler-log-folder](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Number Theory
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
