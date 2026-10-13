@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0424-longest-repeating-character-replacement) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0136-single-number](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0169-majority-element/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0322-coin-change/) | Medium |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0222-count-complete-tree-nodes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0724-find-pivot-index](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0724-find-pivot-index) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1732-find-the-highest-altitude) |
