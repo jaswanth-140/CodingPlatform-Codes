@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0058-length-of-last-word](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0125-valid-palindrome/) | Easy |
 | [0392-is-subsequence](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0424-longest-repeating-character-replacement) |
