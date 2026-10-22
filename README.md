@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0136-single-number](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0169-majority-element/) | Easy |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0283-move-zeroes) |
