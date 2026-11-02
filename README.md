@@ -170,13 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0589-n-ary-tree-preorder-traversal](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
-| [1021-remove-outermost-parentheses](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1021-remove-outermost-parentheses/) | Easy |
-| [1598-crawler-log-folder](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1598-crawler-log-folder) |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <hr>
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -282,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Microsoft
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0two-stacks-in-array](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0two-stacks-in-array/) | Medium |
 | [coin-change-count-ways](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/coin-change-count-ways/) | Medium |
 
 ## OYO Rooms
@@ -292,11 +288,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Samsung
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0two-stacks-in-array](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0two-stacks-in-array/) | Medium |
 | [coin-change-count-ways](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/coin-change-count-ways/) | Medium |
 
 ## Snapdeal
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0two-stacks-in-array](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0two-stacks-in-array/) | Medium |
 | [coin-change-count-ways](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/coin-change-count-ways/) | Medium |
 
 ## Zoho
@@ -304,9 +302,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [coin-change-count-ways](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/coin-change-count-ways/) | Medium |
 
+## 24*7 Innovation Labs
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0two-stacks-in-array](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0two-stacks-in-array/) | Medium |
+
 <!---GeeksForGeeks Companies End-->
 
+
 <hr>
+
 
 
 <!---GeeksForGeeks Tags Start-->
@@ -315,11 +320,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Arrays
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0two-stacks-in-array](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0two-stacks-in-array/) | Medium |
 | [coin-change-count-ways](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/coin-change-count-ways/) | Medium |
 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0392-is-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [coin-change-count-ways](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/coin-change-count-ways/) | Medium |
@@ -329,4 +336,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [coin-change-count-ways](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/coin-change-count-ways/) | Medium |
 
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0two-stacks-in-array](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0two-stacks-in-array/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1598-crawler-log-folder](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1598-crawler-log-folder) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+
+## Implement Two Stacks In An Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0two-stacks-in-array](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0two-stacks-in-array/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
