@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0169-majority-element](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0169-majority-element/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0424-longest-repeating-character-replacement) |
 | [1207-unique-number-of-occurrences](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1207-unique-number-of-occurrences) |
@@ -170,7 +171,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
-
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,6 +241,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0322-coin-change/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 <!---LeetCode Topics End-->
 <hr>
 
