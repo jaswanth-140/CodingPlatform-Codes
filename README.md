@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0322-coin-change/) | Medium |
 | [0724-find-pivot-index](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1207-unique-number-of-occurrences) |
+| [1267-count-servers-that-communicate](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1598-crawler-log-folder](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/1598-crawler-log-folder) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0112-path-sum/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0112-path-sum/) | Easy |
 | [0322-coin-change](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0322-coin-change/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0169-majority-element/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,6 +253,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1267-count-servers-that-communicate/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/1267-count-servers-that-communicate/) | Medium |
 <!---LeetCode Topics End-->
 <hr>
 
