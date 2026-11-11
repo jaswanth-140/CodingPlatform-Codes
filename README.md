@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/0011-container-with-most-water/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/jaswanth-140/CodingPlatform-Codes/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
